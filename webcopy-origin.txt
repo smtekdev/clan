@@ -1,0 +1,1492 @@
+Uri: https://copygen.themenio.com/
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\index.htm
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/404-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\404-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/404.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\404.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/504-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\504-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/504.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\504.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/about.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\about.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/assets/css/style-s2.css?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\css\style-s2.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/assets/css/style-s2.rtl.css?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\css\style-s2.rtl.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/assets/css/style-s3.css?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\css\style-s3.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/assets/css/style-s3.rtl.css?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\css\style-s3.rtl.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/assets/css/style-s4.css?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\css\style-s4.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/assets/css/style-s4.rtl.css?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\css\style-s4.rtl.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/assets/css/style.css?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/assets/css/style.rtl.css?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\css\style.rtl.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/assets/fonts/Nioicon.eot
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\Nioicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://copygen.themenio.com/assets/fonts/Nioicon.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\Nioicon.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/assets/fonts/Nioicon.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\Nioicon.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/assets/fonts/Nioicon.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\Nioicon.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Bold.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Bold.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Bold.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-ExtraBold.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-ExtraBold.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Medium.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Medium.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Medium.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Regular.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Regular.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/assets/fonts/PlusJakartaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\PlusJakartaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Bold.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Bold.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Bold.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Bold.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Medium.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Medium.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Medium.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Medium.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Regular.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Regular.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Regular.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/assets/fonts/SplineSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\fonts\SplineSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/assets/images/gradient/a-blur.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\gradient\a-blur.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/gradient/a-dark.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\gradient\a-dark.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/gradient/a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\gradient\a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/infinity-grid-a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\infinity-grid-a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/pattern/dot-a-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\pattern\dot-a-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/pattern/dot-a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\pattern\dot-a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/pattern/noise-a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\pattern\noise-a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-b.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-b.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-c.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-c.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-d.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-d.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-e.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-e.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-f.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-f.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-g.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-g.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-h.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-h.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-i.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-i.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-j.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-j.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-k.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-k.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-l.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-l.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-m.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-m.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-n.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-n.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-o.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-o.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-p.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-p.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-q.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-q.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-r.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-r.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/blur-s.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\blur-s.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/border-a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\border-a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/border-b.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\border-b.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/border-c.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\border-c.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/border-d.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\border-d.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/border-e.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\border-e.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/shape/border-f.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\shape\border-f.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/images/wormhole-a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\images\wormhole-a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/assets/js/bundle.js?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://copygen.themenio.com/assets/js/scripts.js?v1.4.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://copygen.themenio.com/blog-single.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\blog-single.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/blog.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\blog.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/contact-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\contact-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/contact.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\contact.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\index.htm
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/assets/css/style.css?v1.0.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\css\style.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/dashboard/assets/css/style.rtl.css?v1.0.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\css\style.rtl.css
+Content Type: text/css
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Bold.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Bold.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Bold.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Bold.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Bold.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Medium.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Medium.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Medium.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Medium.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Medium.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Regular.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Regular.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Regular.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Regular.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-Regular.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-SemiBold.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-SemiBold.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-SemiBold.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Archivo-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Archivo-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Nioicon.eot
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Nioicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Nioicon.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Nioicon.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Nioicon.ttf
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Nioicon.ttf
+Content Type: font/ttf
+
+Uri: https://copygen.themenio.com/dashboard/assets/fonts/Nioicon.woff
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\fonts\Nioicon.woff
+Content Type: font/woff
+
+Uri: https://copygen.themenio.com/dashboard/assets/images/shape/blur-a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\images\shape\blur-a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/assets/images/shape/blur-b.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\images\shape\blur-b.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/assets/js/bundle.js?v1.0.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://copygen.themenio.com/dashboard/assets/js/scripts.js?v1.0.0
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://copygen.themenio.com/dashboard/check-email.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\check-email.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-accordion.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-accordion.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-alert.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-alert.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-badges.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-badges.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-buttons.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-buttons.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-card.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-card.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-dropdown.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-dropdown.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-form-advanced.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-form-advanced.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-form-basic.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-form-basic.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-modals.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-modals.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-offcanvas.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-offcanvas.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-popover-tooltip.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-popover-tooltip.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-tabs.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-tabs.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/component-toasts.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\component-toasts.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/create-account.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\create-account.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/document-drafts.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\document-drafts.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/document-editor-edit.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\document-editor-edit.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/document-editor-generate.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\document-editor-generate.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/document-editor.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\document-editor.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/document-saved.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\document-saved.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/email-verified.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\email-verified.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/forgot-password.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\forgot-password.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/history.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\history.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/images/avatar/a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\avatar\a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/favicon.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\favicon.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/icons/card/amex.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\icons\card\amex.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/icons/card/diners.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\icons\card\diners.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/icons/card/mastercard.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\icons\card\mastercard.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/icons/card/visa.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\icons\card\visa.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/icons/facebook.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\icons\facebook.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/icons/google.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\icons\google.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/icons/paypal.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\icons\paypal.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/illustrations/envelope-send.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\illustrations\envelope-send.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/dashboard/images/illustrations/envelope-verified.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\illustrations\envelope-verified.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/dashboard/images/illustrations/no-documents.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\illustrations\no-documents.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/dashboard/images/logo-dark.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\logo-dark.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/logo-dark2x.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\logo-dark2x.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/logo-icon.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\logo-icon.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/logo-icon2x.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\logo-icon2x.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/logo.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\logo.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/logo2x.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\logo2x.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/dashboard/images/preview/b.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\images\preview\b.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/dashboard/index.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\index.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/login.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\login.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/payment.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\payment.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/pricing-plans.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\pricing-plans.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/profile.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\profile.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\index.htm
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/check-email.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\check-email.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-accordion.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-accordion.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-alert.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-alert.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-badges.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-badges.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-buttons.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-buttons.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-card.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-card.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-dropdown.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-dropdown.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-form-advanced.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-form-advanced.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-form-basic.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-form-basic.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-modals.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-modals.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-offcanvas.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-offcanvas.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-popover-tooltip.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-popover-tooltip.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-tabs.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-tabs.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/component-toasts.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\component-toasts.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/create-account.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\create-account.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/document-drafts.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\document-drafts.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/document-editor-edit.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\document-editor-edit.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/document-editor-generate.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\document-editor-generate.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/document-editor.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\document-editor.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/document-saved.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\document-saved.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/email-verified.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\email-verified.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/forgot-password.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\forgot-password.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/history.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\history.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/index.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\index.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/login.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\login.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/payment.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\payment.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/pricing-plans.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\pricing-plans.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/profile.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\profile.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/templates-list.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\templates-list.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/templates.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\templates.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/rtl/verify-email.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\rtl\verify-email.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/templates-list.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\templates-list.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/templates.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\templates.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/dashboard/verify-email.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\dashboard\verify-email.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/features.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\features.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-a.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-a.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-b.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-b.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-c.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-c.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-d.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-d.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-e.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-e.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-g.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-g.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-h.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-h.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-i.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-i.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-j.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-j.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-k.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-k.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-l.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-l.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-m.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-m.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-n.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-n.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-o.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-o.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/author/sm-p.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\author\sm-p.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/illustration/a.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\illustration\a.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/illustration/b.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\illustration\b.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/illustration/c.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\illustration\c.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/illustration/d.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\illustration\d.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/testimonials/md-a.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\testimonials\md-a.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/avatar/testimonials/md-b.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\avatar\testimonials\md-b.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/a.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\a.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/b.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\b.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/c.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\c.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/cover.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\cover.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/d.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\d.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/e.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\e.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/f.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\f.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/g.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\g.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/h.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\h.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/blog/i.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\blog\i.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/brands/72-a-tone-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-a-tone-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-a-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-a-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-a.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-a.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-b-tone-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-b-tone-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-b-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-b-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-b.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-b.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-c-tone-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-c-tone-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-c-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-c-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-c.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-c.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-d-tone-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-d-tone-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-d-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-d-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-d.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-d.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-e-tone-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-e-tone-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-e-white.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-e-white.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/brands/72-e.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\brands\72-e.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/about.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\about.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/banner/a.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\banner\a.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/banner/b.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\banner\b.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/banner/c.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\banner\c.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/banner/d.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\banner\d.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/banner/e.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\banner\e.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/banner/f.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\banner\f.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/banner/g.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\banner\g.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/error/404.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\error\404.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/gfx/error/504.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\error\504.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/gfx/feature/a.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\feature\a.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/feature/b.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\feature\b.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/process/a-alt.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\process\a-alt.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/process/a.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\process\a.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/process/b-alt.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\process\b-alt.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/process/b.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\process\b.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/process/c-alt.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\process\c-alt.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/gfx/process/c.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\process\c.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/usecase/a.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\usecase\a.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/usecase/b.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\usecase\b.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/usecase/c.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\usecase\c.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/usecase/d.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\usecase\d.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/gfx/usecase/e.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\gfx\usecase\e.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/icon/articles.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\articles.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/icon/edit.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\edit.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/icon/hand-mic.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\hand-mic.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/icon/paper.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\paper.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/icon/praying-hand.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\praying-hand.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/icon/product-discription.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\product-discription.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/icon/stock-up.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\stock-up.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/icon/text.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\text.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/icon/website.svg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\icon\website.svg
+Content Type: image/svg+xml
+
+Uri: https://copygen.themenio.com/images/landing/avatar/envato.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\avatar\envato.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/banner-gfx.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\banner-gfx.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/landing/cta-screen.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\cta-screen.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/landing/dashboard-screen.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\dashboard-screen.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/landing/icons/bootstrap.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\icons\bootstrap.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/landing/icons/css.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\icons\css.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/landing/icons/gulp.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\icons\gulp.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/landing/icons/html.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\icons\html.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/landing/icons/sass.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\icons\sass.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/landing/inner-404-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-404-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-404.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-404.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-504-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-504-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-504.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-504.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-about.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-about.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-blog-details.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-blog-details.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-blog.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-conus-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-conus-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-conus.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-conus.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-pricing-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-pricing-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-pricing.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-pricing.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-reset-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-reset-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-reset.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-reset.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-signin-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-signin-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-signin.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-signin.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-signup-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-signup-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-signup.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-signup.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-terms.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-terms.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-usecase-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-usecase-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-usecase-details-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-usecase-details-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-usecase-details.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-usecase-details.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/inner-usecase.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\inner-usecase.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/ld-1.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\ld-1.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/ld-2.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\ld-2.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/ld-3.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\ld-3.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/ld-4.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\ld-4.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/ld-5.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\ld-5.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/landing/ld-soon.jpg
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\landing\ld-soon.jpg
+Content Type: image/jpeg
+
+Uri: https://copygen.themenio.com/images/logo-dark.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\logo-dark.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/logo-dark2x.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\logo-dark2x.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/logo-green-dark.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\logo-green-dark.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/logo-green-dark2x.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\logo-green-dark2x.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/logo-green.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\logo-green.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/logo-green2x.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\logo-green2x.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/logo.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\logo.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/logo2x.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\logo2x.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/number/1-light.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\number\1-light.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/number/1.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\number\1.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/number/2-light.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\number\2-light.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/number/2.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\number\2.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/number/3-light.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\number\3-light.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/images/number/3.png
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\images\number\3.png
+Content Type: image/png
+
+Uri: https://copygen.themenio.com/index-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\index-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/index-s3.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\index-s3.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/index-s4.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\index-s4.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/index-s5.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\index-s5.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/index.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\index.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/landing.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\landing.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/login-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\login-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/login.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\login.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/pricing-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\pricing-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/pricing.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\pricing.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/register-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\register-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/register.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\register.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/reset-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\reset-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/reset.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\reset.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\index.htm
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/404-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\404-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/404.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\404.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/504-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\504-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/504.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\504.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/about.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\about.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/blog-single.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\blog-single.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/blog.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\blog.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/contact-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\contact-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/contact.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\contact.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/features.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\features.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/index-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\index-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/index-s3.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\index-s3.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/index-s4.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\index-s4.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/index-s5.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\index-s5.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/index.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\index.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/login-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\login-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/login.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\login.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/pricing-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\pricing-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/pricing.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\pricing.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/register-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\register-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/register.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\register.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/reset-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\reset-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/reset.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\reset.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/terms-condition.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\terms-condition.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/usecase-details-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\usecase-details-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/usecase-details.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\usecase-details.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/usecase-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\usecase-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/rtl/usecase.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\rtl\usecase.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/terms-condition.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\terms-condition.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/usecase-details-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\usecase-details-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/usecase-details.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\usecase-details.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/usecase-s2.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\usecase-s2.html
+Content Type: text/html
+
+Uri: https://copygen.themenio.com/usecase.html
+File Name: C:\Downloaded Web Sites\copygen.themenio.com\usecase.html
+Content Type: text/html
+
